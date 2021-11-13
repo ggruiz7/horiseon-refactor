@@ -13,4 +13,4 @@
 ###Deployed Application: https://ggruiz7.github.io/horiseon-refactor/
 ###Github Repository: https://github.com/ggruiz7/horiseon-refactor
 
-![mock-up](./images/01-html-css-git-homework-demo.png)
+![mock-up](./develop/assets/images/01-html-css-git-homework-demo.png)
