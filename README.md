@@ -1,6 +1,6 @@
-#Code Refactor
+# Code Refactor
 
-##Requirements:
+## Requirements:
 
 ```
 -source code uses semantic html elements
@@ -10,7 +10,8 @@
 -title element has concise, descriptive title
 ```
 
-###Deployed Application: https://ggruiz7.github.io/horiseon-refactor/
-###Github Repository: https://github.com/ggruiz7/horiseon-refactor
+### Deployed Application: https://ggruiz7.github.io/horiseon-refactor/
+
+### Github Repository: https://github.com/ggruiz7/horiseon-refactor
 
 ![mock-up](./develop/assets/images/01-html-css-git-homework-demo.png)
